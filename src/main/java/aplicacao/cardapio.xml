@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cardapio>
+  <produto categoria="bebida" id="1">
+    <nome>Suco de Laranja</nome>
+    <preco>8.5</preco>
+    <disponivel>true</disponivel>
+  </produto>
+  <produto categoria="bebida" id="2" promocao="true">
+    <nome>Cafe Expresso</nome>
+    <preco>5.0</preco>
+    <disponivel>true</disponivel>
+  </produto>
+  <produto categoria="prato" id="3" tempoPreparo="20">
+    <nome>Prato Feito</nome>
+    <preco>28.9</preco>
+    <disponivel>true</disponivel>
+  </produto>
+  <produto categoria="massa" id="4" tempoPreparo="35">
+    <nome>Lasanha Bolonhesa</nome>
+    <preco>32.0</preco>
+    <disponivel>true</disponivel>
+  </produto>
+  <produto categoria="sobremesa" id="5" tempoPreparo="15">
+    <nome>Pudim de Leite</nome>
+    <preco>12.0</preco>
+    <disponivel>true</disponivel>
+  </produto>
+  <produto categoria="bebida" id="6">
+    <nome>Agua Mineral</nome>
+    <preco>4.0</preco>
+    <disponivel>false</disponivel>
+  </produto>
+</cardapio>
